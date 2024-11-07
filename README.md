@@ -15,14 +15,16 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 # PENJELASAN SOURCE CODE
 
 1.
-   ![1](https://github.com/user-attachments/assets/077c4b09-cbb0-403d-88d5-c3ddf50ad42a)
 
-  a._from prettytable import PrettyTable_ Digunakan untuk memanggil PrettyTable agar tampilan output lebih rapi dengan tabel
+  ![1](https://github.com/user-attachments/assets/077c4b09-cbb0-403d-88d5-c3ddf50ad42a)
 
-  b._import json_ Untuk memanggil JSON agar dapat menyimpan ataupun memuat data
+  a. _from prettytable import PrettyTable_ Digunakan untuk memanggil PrettyTable agar tampilan output lebih rapi dengan tabel
 
-  c._import pwinput_ Digunakan untuk menampilkan (***) pada saat memasukkan kata sandi
+  b. _import json_ Untuk memanggil JSON agar dapat menyimpan ataupun memuat data
 
-2.
+  c. _import pwinput_ Digunakan untuk menampilkan (***) pada saat memasukkan kata sandi
+
+3.
+
   ![2](https://github.com/user-attachments/assets/88cf4f39-504d-421a-a796-34da7fd45fb8)
 
