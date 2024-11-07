@@ -53,7 +53,7 @@ A.
 
      ![image](https://github.com/user-attachments/assets/9487ced9-2776-4cd6-97c3-fd127d7b6e77)
 
-     Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya"             maka akan mengulang proses menambah konser namun jika "Tidak admin akan kembali ke Menu Admin.
+     Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya"            maka akan mengulang proses menambah konser namun jika "Tidak admin akan kembali ke Menu Admin.
 
 
      -
@@ -68,6 +68,30 @@ A.
 
 
      -
+
+     ![image](https://github.com/user-attachments/assets/758e0d95-8689-42ae-8723-fe12039d6ddd)
+
+     Jika Menginput "4" yaitu Hapus Event Konser, Maka admin diminta memasukkan angka berapa pada list konser yang ingin         dihapus.
+
+     ![image](https://github.com/user-attachments/assets/ef15e644-d869-40d8-b023-cb8adf291093)
+
+     Setelah memasukkan angka berapa pada list konser yang ingin dihapus maka list konser sesuai angka yang diinput admin        akan terhapus dari list konser.
+
+     ![image](https://github.com/user-attachments/assets/941a4516-0400-451c-9295-47d9f9df33f3)
+
+     Setelah list konser dihapuskan maka admin akan ditanya apakah ingin menghapus konser lagi atau tidak, jika "Ya"             maka akan mengulang proses menghapus konser namun jika "Tidak admin akan kembali ke Menu Admin.
+
+
+     -
+
+     ![image](https://github.com/user-attachments/assets/337fa398-1f95-4379-97df-bf959be846fc)
+
+     Jika menginput "5" yaitu Logout, maka admin akan logout atau keluar dari role admin dan akan kembali pada menu pilih        role.
+
+     
+
+
+
 
      
       
