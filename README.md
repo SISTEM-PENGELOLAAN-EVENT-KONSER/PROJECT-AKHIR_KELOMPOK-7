@@ -62,6 +62,17 @@ A.
 
      Jika Menginput "3" yaitu Perbarui Event Konser, Maka pertama admin diminta untuk memasukkan angka berapa yang ada di         list untuk memilih konser yang ingin diperbarui, setelah memasukkan angka selanjutnya admin memasukkan Guest Star,           Tanggal, Bulan, Tahun, dan Harga per satu ticket.
 
+     ![image](https://github.com/user-attachments/assets/0e6123ec-a00a-4cbf-8b0c-2220046e6ee1)
+
+     Setelah itu jika sudah maka list konser akan diperbarui sesuai input admin sebelumnnya.
+
+
+     -
+
+     
+      
+
+
 
 
 
