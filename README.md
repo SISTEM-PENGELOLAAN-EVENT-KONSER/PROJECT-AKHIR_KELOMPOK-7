@@ -38,14 +38,14 @@ A.
 
      ![image](https://github.com/user-attachments/assets/889ea200-08fd-45e1-b72f-aaba85cb932f)
 
-     Jika Menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per             satu ticket akan ditampilkan.
+     Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per            satu ticket akan ditampilkan.
 
 
      -
 
      ![image](https://github.com/user-attachments/assets/18b93577-2121-4102-9445-929c84eda9a0)
 
-     Jika Menginput "2" yaitu Tambah Event Konser, Maka Admin diminta untuk memasukkan Guest Star, Tanggal, Bulan,                Tahun, dan Harga per satu ticket.
+     Jika menginput "2" yaitu Tambah Event Konser, Maka Admin diminta untuk memasukkan Guest Star, Tanggal, Bulan,               Tahun, dan Harga per satu ticket.
 
      ![image](https://github.com/user-attachments/assets/ede4db57-c198-4e7d-9b5c-c2b9965ee364)
 
@@ -60,7 +60,7 @@ A.
 
      ![image](https://github.com/user-attachments/assets/4b300a72-07cf-488c-b442-d02b38eff946)
 
-     Jika Menginput "3" yaitu Perbarui Event Konser, Maka pertama admin diminta untuk memasukkan angka berapa yang ada di         list untuk memilih konser yang ingin diperbarui, setelah memasukkan angka selanjutnya admin memasukkan Guest Star,           Tanggal, Bulan, Tahun, dan Harga per satu ticket.
+     Jika menginput "3" yaitu Perbarui Event Konser, Maka pertama admin diminta untuk memasukkan angka berapa yang ada di        list untuk memilih konser yang ingin diperbarui, setelah memasukkan angka selanjutnya admin memasukkan Guest Star,          Tanggal, Bulan, Tahun, dan Harga per satu ticket.
 
      ![image](https://github.com/user-attachments/assets/0e6123ec-a00a-4cbf-8b0c-2220046e6ee1)
 
@@ -71,7 +71,7 @@ A.
 
      ![image](https://github.com/user-attachments/assets/758e0d95-8689-42ae-8723-fe12039d6ddd)
 
-     Jika Menginput "4" yaitu Hapus Event Konser, Maka admin diminta memasukkan angka berapa pada list konser yang ingin         dihapus.
+     Jika menginput "4" yaitu Hapus Event Konser, Maka admin diminta memasukkan angka berapa pada list konser yang ingin         dihapus.
 
      ![image](https://github.com/user-attachments/assets/ef15e644-d869-40d8-b023-cb8adf291093)
 
@@ -109,6 +109,15 @@ A.
 
 
      -
+
+     Jika menginput angka "1" yaitu Login, Maka pengguna diminta memasukkan username dan password pengguna.
+
+       -
+
+       ![image](https://github.com/user-attachments/assets/a87c46ac-17f7-4b1b-8e9f-918366577401)
+
+       Jika Username dan Password pengguna sudah sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU PENGGUNA".
+
 
      
 
