@@ -26,7 +26,7 @@ A.
 
      ![Screenshot 2024-11-07 215706](https://github.com/user-attachments/assets/0cd0b377-4af3-4c5d-a74d-007d746573b3)
 
-     Apabila user memilih angka "1" maka akan masuk ke role admin dan diminta untuk memasukkan Username dan Password.
+     Apabila user menginput angka "1" maka akan masuk ke role admin dan diminta untuk memasukkan Username dan Password.
 
      b.
 
@@ -87,6 +87,33 @@ A.
      ![image](https://github.com/user-attachments/assets/337fa398-1f95-4379-97df-bf959be846fc)
 
      Jika menginput "5" yaitu Logout, maka admin akan logout atau keluar dari role admin dan akan kembali pada menu pilih        role.
+
+
+  2. Pengguna
+
+     a.
+
+     ![Screenshot 2024-11-08 063458](https://github.com/user-attachments/assets/36d4b72a-cb52-470a-aca6-fe5e4111516d)
+
+     Jika user menginput angka "2" maka akan akan masuk ke role pengguna dan diminta menginput angka berapa yang user ingin      lakukan, apakah 1.Login, 2.Daftar, atau 3.Kembali.
+
+     -
+
+     ![Screenshot 2024-11-08 063538](https://github.com/user-attachments/assets/f1b4d78c-644b-405c-9d64-58b3a7197c30)
+
+     Jika menginput angka "2" yaitu Daftar, Maka pengguna akan masuk ke menu "DAFTAR AKUn" dan pengguna diminta memasukkan       username dan password yang mereka inginkan untuk membuat akun.
+
+     ![Screenshot 2024-11-08 063543](https://github.com/user-attachments/assets/e3eb6307-5136-4c91-be2b-bdf44ec45b2f)
+
+     Setelah username dan password yang ingin dibuat dimasukkan, maka akan muncul pemberitahuan bahwa Akun berhasil dibuat.
+
+
+     -
+
+     
+
+
+
 
      
 
