@@ -34,7 +34,8 @@ A.
 
      Jika Username dan Password admin sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU ADMIN"
 
-       - ![image](https://github.com/user-attachments/assets/2094722b-bbfe-4451-a151-090b0170cc6e)
+       -
+         ![image](https://github.com/user-attachments/assets/2094722b-bbfe-4451-a151-090b0170cc6e)
 
 
 
