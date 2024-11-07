@@ -16,6 +16,8 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
 1.
 
-  ![image](https://github.com/user-attachments/assets/407de429-82b2-4138-8184-89b2be69830b)
+  a. ![image](https://github.com/user-attachments/assets/407de429-82b2-4138-8184-89b2be69830b)
+
+      User diminta untuk menginput angka berapa untuk memlih role
 
 
