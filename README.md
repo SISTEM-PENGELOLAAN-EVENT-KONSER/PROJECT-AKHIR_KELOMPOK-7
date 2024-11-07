@@ -112,7 +112,7 @@ A.
 
      Jika menginput angka "1" yaitu Login, Maka pengguna diminta memasukkan username dan password pengguna.
 
-       -
+       >
 
        ![image](https://github.com/user-attachments/assets/a87c46ac-17f7-4b1b-8e9f-918366577401)
 
