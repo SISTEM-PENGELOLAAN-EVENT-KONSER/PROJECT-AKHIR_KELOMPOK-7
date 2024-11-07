@@ -1,4 +1,4 @@
-# PROJECT_AKHIR_KELOMPOK_7
+  # PROJECT_AKHIR_KELOMPOK_7
 
 DWI FEBRIANTO PRADANA 2409116012
 
@@ -110,15 +110,26 @@ A.
 
      -
 
+     ![Screenshot 2024-11-08 074909](https://github.com/user-attachments/assets/bc540062-4f14-49d8-a748-2c6cdc52ff67)
+
+
      Jika menginput angka "1" yaitu Login, Maka pengguna diminta memasukkan username dan password pengguna.
 
        a. 
 
-       ![image](https://github.com/user-attachments/assets/a87c46ac-17f7-4b1b-8e9f-918366577401)
+       ![Screenshot 2024-11-08 074916](https://github.com/user-attachments/assets/40a18027-2d69-4b2a-bd82-e94ce947fdb9)
 
-       Jika Username dan Password pengguna sudah sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU PENGGUNA".
+       Jika Username dan Password pengguna sudah sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU PENGGUNA" dan pengguna dapat memasukkan angka berapa pada menu yang ingin dituju.
 
        -
+
+       ![image](https://github.com/user-attachments/assets/5ff1ab63-3ed2-4428-8ba8-c12723e64c0e)
+
+       Jika menginput angka "1" yaitu Lihat Event Konser, Maka akan ditampilkan list jadwal konser berisi guest star, jadwal, dan harga per satu ticketnya
+
+       -
+     
+
 
        
 
