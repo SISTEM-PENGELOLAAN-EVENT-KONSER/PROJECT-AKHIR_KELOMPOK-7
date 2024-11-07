@@ -40,6 +40,7 @@ A.
 
      Jika Menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per             satu ticket akan ditampilkan.
 
+
      -
 
      ![image](https://github.com/user-attachments/assets/18b93577-2121-4102-9445-929c84eda9a0)
@@ -48,11 +49,20 @@ A.
 
      ![image](https://github.com/user-attachments/assets/ede4db57-c198-4e7d-9b5c-c2b9965ee364)
 
-     Jika sudah maka konser yang baru saja ditambah akan otomatis masuk ke list konser
+     Jika sudah maka konser yang baru saja ditambah akan otomatis masuk ke list konser.
 
      ![image](https://github.com/user-attachments/assets/9487ced9-2776-4cd6-97c3-fd127d7b6e77)
 
-     Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya"             maka akan mengulang proses menambah konser namun jika "Tidak admin akan kembali ke Menu Admin
+     Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya"             maka akan mengulang proses menambah konser namun jika "Tidak admin akan kembali ke Menu Admin.
+
+
+     -
+
+     ![image](https://github.com/user-attachments/assets/4b300a72-07cf-488c-b442-d02b38eff946)
+
+     Jika Menginput "3" yaitu Perbarui Event Konser, Maka pertama admin diminta untuk memasukkan angka berapa yang ada di         list untuk memilih konser yang ingin diperbarui, setelah memasukkan angka selanjutnya admin memasukkan Guest Star,           Tanggal, Bulan, Tahun, dan Harga per satu ticket.
+
+
 
 
 
