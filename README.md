@@ -1,6 +1,6 @@
-  # PROJECT_AKHIR_KELOMPOK_7
+# PROJECT_AKHIR_KELOMPOK_7
 
-DWI FEBRIANTO PRADANA 2409116012
+DWI PEBRIYANTO PRADANA 2409116012
 
 ISRINA LUTFIAH 2409116003
 
@@ -10,7 +10,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
 # FLOWCHART
 
-![MENU UTAMA drawio](https://github.com/user-attachments/assets/8d2546d0-4408-48a4-ada4-c0d100be2a38)
+![MENU UTAMA-Page-1](https://github.com/user-attachments/assets/43b36712-8f0b-4e7b-aed6-074b5180fb50)
 
 ![MENU ADMIN drawio](https://github.com/user-attachments/assets/d2337f77-4d14-4ff5-a19d-58a82bee5930)
 
