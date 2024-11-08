@@ -10,11 +10,12 @@ MUHAMMAD SADIKIN SAMIR 2409116031
 
 # FLOWCHART
 
-![MENU UTAMA-Page-1](https://github.com/user-attachments/assets/43b36712-8f0b-4e7b-aed6-074b5180fb50)
+![MENU UTAMA-Page-1 (2)](https://github.com/user-attachments/assets/9018241b-e87c-427d-8cdb-6a1e7d72d6d5)
 
-![MENU ADMIN drawio](https://github.com/user-attachments/assets/d2337f77-4d14-4ff5-a19d-58a82bee5930)
+![MENU UTAMA-Page-2 (3)](https://github.com/user-attachments/assets/e6c233e0-f63c-43b0-80b5-a4b6b8013b3f)
 
-![MENU PENGGUNA drawio](https://github.com/user-attachments/assets/19e8b65c-f5af-4265-a3d5-1426bc448b7a)
+![MENU UTAMA-Page-3 (3)](https://github.com/user-attachments/assets/b2840c5f-524d-4943-b3a9-17905cf99ec5)
+
 
 # PENJELASAN OUTPUT
 
