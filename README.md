@@ -84,11 +84,11 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   - Hapus event konser
 
-  ![image](https://github.com/user-attachments/assets/758e0d95-8689-42ae-8723-fe12039d6ddd)
+  ![Screenshot 2024-11-09 000737](https://github.com/user-attachments/assets/f767829f-802f-4c1e-b63c-0435f338af56)
 
-  Jika menginput "4" yaitu Hapus Event Konser, Maka admin diminta memasukkan angka berapa pada list konser yang ingin dihapus.
+  Jika menginput "4" yaitu Hapus Event Konser, Maka admin diminta memasukkan ID berapa pada list konser yang ingin dihapus.
 
-  ![image](https://github.com/user-attachments/assets/ef15e644-d869-40d8-b023-cb8adf291093)
+  ![Screenshot 2024-11-09 000742](https://github.com/user-attachments/assets/2440d542-4802-486c-a780-20ed55314477)
 
   Setelah memasukkan angka berapa pada list konser yang ingin dihapus maka list konser sesuai angka yang diinput admin akan terhapus dari list konser.
 
@@ -97,7 +97,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
   Setelah list konser dihapuskan maka admin akan ditanya apakah ingin menghapus konser lagi atau tidak, jika "Ya" maka akan mengulang proses menghapus konser namun jika "Tidak admin akan kembali ke Menu Admin.
 
 
-  -
+  - Logout
 
   ![image](https://github.com/user-attachments/assets/337fa398-1f95-4379-97df-bf959be846fc)
 
@@ -106,47 +106,57 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
 ### 2. Pengguna
 
-  #### a.
+  #### a. Menu login pengguna
 
   ![Screenshot 2024-11-08 063458](https://github.com/user-attachments/assets/36d4b72a-cb52-470a-aca6-fe5e4111516d)
 
   Jika user menginput angka "2" maka akan akan masuk ke role pengguna dan diminta menginput angka berapa yang user ingin lakukan, apakah 1.Login, 2.Daftar, atau 3.Kembali.
 
-  -
+  - Daftar akun
 
   ![Screenshot 2024-11-08 063538](https://github.com/user-attachments/assets/f1b4d78c-644b-405c-9d64-58b3a7197c30)
 
-  Jika menginput angka "2" yaitu Daftar, Maka pengguna akan masuk ke menu "DAFTAR AKUn" dan pengguna diminta memasukkan username dan password yang mereka inginkan untuk membuat akun.
+  Jika menginput angka "2" yaitu Daftar, Maka pengguna akan masuk ke menu "DAFTAR AKUN" dan pengguna diminta memasukkan username dan password yang mereka inginkan untuk membuat akun.
 
   ![Screenshot 2024-11-08 063543](https://github.com/user-attachments/assets/e3eb6307-5136-4c91-be2b-bdf44ec45b2f)
 
   Setelah username dan password yang ingin dibuat dimasukkan, maka akan muncul pemberitahuan bahwa Akun berhasil dibuat.
 
 
-  -
+  - Login
 
   ![Screenshot 2024-11-08 074909](https://github.com/user-attachments/assets/bc540062-4f14-49d8-a748-2c6cdc52ff67)
 
 
   Jika menginput angka "1" yaitu Login, Maka pengguna diminta memasukkan username dan password pengguna.
 
-  ##### a. 
+  ##### a. Menu pengguna
 
   ![Screenshot 2024-11-08 074916](https://github.com/user-attachments/assets/40a18027-2d69-4b2a-bd82-e94ce947fdb9)
 
   Jika Username dan Password pengguna sudah sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU PENGGUNA" dan pengguna dapat memasukkan angka berapa pada menu yang ingin dituju.
 
-  -
+  - Lihat event konser
 
-  ![image](https://github.com/user-attachments/assets/5ff1ab63-3ed2-4428-8ba8-c12723e64c0e)
+  [Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
 
-  Jika menginput angka "1" yaitu Lihat Event Konser, Maka akan ditampilkan list jadwal konser berisi guest star, jadwal, dan harga per satu ticketnya
+  Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan. dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
 
-  -
+![Screenshot 2024-11-08 235412](https://github.com/user-attachments/assets/54b6cc2e-8e43-401c-9c99-73889d117caf)
 
-  ![Screenshot 2024-11-08 103550](https://github.com/user-attachments/assets/35c3fe29-5923-4285-bf3b-605a4e9bf32b)
+![Screenshot 2024-11-08 235417](https://github.com/user-attachments/assets/97ac2088-4867-4fc4-abe2-742adddacfd5)
 
-  Jika menginput angka "2" yaitu Beli Tiket Event Konser, Maka akan ditampilkan list konser dan pengguna diminta memasukkan nomor konser berapa yang ingin dibeli setelah itu diminta untuk memasukkan jumlah tiket yang ingin dibeli.
+  Jika meenginput "1" yaitu Harga terendah ke tertinggi, maka list konser akan di sorting sesuai dengan harga mulai dari terendah dan tertinggi ataupun sebaliknya jika menginput "2" yaitu Harga tertinggi ke terendah, maka akan disorting mulai dari harga tertinggi ke terendah.
+
+  ![image](https://github.com/user-attachments/assets/84a7401b-7826-415c-ae21-d941cced2fda)
+
+  Jika mengiput "3" yaitu kembali, maka admin akan kembali ke "MENU PENGGUNA".
+
+  - Beli tiket event konser
+
+![image](https://github.com/user-attachments/assets/847ab900-5e25-4198-a4f2-8ccb782fa787)
+
+  Jika menginput angka "2" yaitu Beli Tiket Event Konser, Pengguna diminta memasukkan ID konser berapa yang ingin dibeli setelah itu diminta untuk memasukkan jumlah tiket yang ingin dibeli.
 
   ![Screenshot 2024-11-08 103750](https://github.com/user-attachments/assets/15733403-c320-4dab-ade5-d94de53c2db9)
 
@@ -160,7 +170,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Namun, jika saldo tidak cukup maka proses pembayaran akan dibatalkan dan pengguna diminta untuk melakukaan pengisian saldo.
 
-  -
+  - Lihat saldo E-Money
 
   ![image](https://github.com/user-attachments/assets/df5a3bef-7804-4b23-9b3b-f1a00e8321c9)
 
@@ -178,7 +188,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Jika pengguna memasukkan angka "2" yaitu Kembali, maka pengguna akan kembali ke "MENU PENGGUNA".
 
-  -
+  - Lihat tiket yang dibeli
 
   ![image](https://github.com/user-attachments/assets/510ce5ca-8c2e-4d03-9846-6348c8677a79)
 
@@ -188,7 +198,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Jika menginput "ya" maka akan menghapus tiket, namun jika tidak maka akan kembali ke menu pengguna.
 
-  -
+  - Logout
 
   ![image](https://github.com/user-attachments/assets/cda4eedb-931c-4c9c-a82e-63cbf566d0fc)
 
