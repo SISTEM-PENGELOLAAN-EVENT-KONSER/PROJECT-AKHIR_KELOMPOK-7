@@ -138,7 +138,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   - Lihat event konser
 
-[Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
+![image](https://github.com/user-attachments/assets/38499351-c1f2-4860-99ea-38ba5b25808d)
 
   Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan. dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
 
