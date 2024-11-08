@@ -38,7 +38,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Jika Username dan Password admin sesuai dengan yang ada pada database maka akan langsung masuk pada "MENU ADMIN".
 
-  -
+  - Lihat event konser
 
   ![Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
 
@@ -54,7 +54,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Jika mengiput "3" yaitu kembali, maka admin akan kembali ke "MENU ADMIN".
   
-  -
+  - Tambah event konser
 
   ![Screenshot 2024-11-08 235721](https://github.com/user-attachments/assets/f17312db-217f-4c2d-887d-359059bce8d7)
 
@@ -68,19 +68,21 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya" maka akan mengulang proses menambah konser namun jika "Tidak admin akan kembali ke Menu Admin.
 
+  - Perbarui event konser
 
-  -
-
-  ![image](https://github.com/user-attachments/assets/4b300a72-07cf-488c-b442-d02b38eff946)
+  ![image](https://github.com/user-attachments/assets/42ecf5c3-a055-426a-99a0-a483ea4fb9a8)
 
   Jika menginput "3" yaitu Perbarui Event Konser, Maka pertama admin diminta untuk memasukkan angka berapa yang ada di list untuk memilih konser yang ingin diperbarui, setelah memasukkan angka selanjutnya admin memasukkan Guest Star, Tanggal, Bulan, Tahun, dan Harga per satu ticket.
 
-  ![image](https://github.com/user-attachments/assets/0e6123ec-a00a-4cbf-8b0c-2220046e6ee1)
+  ![image](https://github.com/user-attachments/assets/3fef4d8f-d438-425a-98cc-a431af782b57)
 
   Setelah itu jika sudah maka list konser akan diperbarui sesuai input admin sebelumnnya.
 
+  ![image](https://github.com/user-attachments/assets/12b647c3-eacb-4185-ab0e-42db21d0e2a8)
 
-  -
+  Setelah itu admin ditanya apakah ingin memperbarui konser lagi atau tidak. Jika "Ya" maka akan mengulangi proses perbarui event konser, jika "Tidak" maka akan kembali ke "Menu Admin"
+
+  - Hapus event konser
 
   ![image](https://github.com/user-attachments/assets/758e0d95-8689-42ae-8723-fe12039d6ddd)
 
