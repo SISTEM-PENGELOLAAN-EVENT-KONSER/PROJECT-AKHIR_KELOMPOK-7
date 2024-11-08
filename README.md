@@ -138,7 +138,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   - Lihat event konser
 
-  [Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
+[Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
 
   Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan. dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
 
@@ -158,15 +158,15 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   Jika menginput angka "2" yaitu Beli Tiket Event Konser, Pengguna diminta memasukkan ID konser berapa yang ingin dibeli setelah itu diminta untuk memasukkan jumlah tiket yang ingin dibeli.
 
-  ![Screenshot 2024-11-08 103750](https://github.com/user-attachments/assets/15733403-c320-4dab-ade5-d94de53c2db9)
+![image](https://github.com/user-attachments/assets/c1fb72a6-bea5-454f-84dd-7a1903fdc3cf)
 
   Setelah harga tiket dikali jumlah tiket yang ingin dibeli maka dihitung jumlah totalnya, dan pengguna ditanya apakah ingin melanjutkan pembayaran atau tidak.
 
-  ![Screenshot 2024-11-08 104018](https://github.com/user-attachments/assets/b0bc0c37-53a5-45f0-b071-6ef76fa60c79)
+![image](https://github.com/user-attachments/assets/d8f1bee3-e1b9-4eed-9b90-58780da717dc)
 
   Jika saldo cukup maka akan muncul invoice dari pembelian tiket konser.
 
-  ![Screenshot 2024-11-08 103601](https://github.com/user-attachments/assets/c0dc2f79-36ec-4178-bd47-8918cb5d794c)
+![image](https://github.com/user-attachments/assets/398538ce-ef8f-40da-9cd4-0576e93623d4)
 
   Namun, jika saldo tidak cukup maka proses pembayaran akan dibatalkan dan pengguna diminta untuk melakukaan pengisian saldo.
 
