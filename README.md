@@ -10,7 +10,11 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
 # FLOWCHART
 
-![project akhir-Page-1 drawio (1)](https://github.com/user-attachments/assets/1372bba3-7177-4b8d-a2fb-5a4684a5e8ec)
+![MENU UTAMA drawio](https://github.com/user-attachments/assets/8d2546d0-4408-48a4-ada4-c0d100be2a38)
+
+![MENU ADMIN drawio](https://github.com/user-attachments/assets/d2337f77-4d14-4ff5-a19d-58a82bee5930)
+
+![MENU PENGGUNA drawio](https://github.com/user-attachments/assets/19e8b65c-f5af-4265-a3d5-1426bc448b7a)
 
 # PENJELASAN OUTPUT
 
