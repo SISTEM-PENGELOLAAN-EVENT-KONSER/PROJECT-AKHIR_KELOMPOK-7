@@ -149,7 +149,7 @@ A.
 
        ![image](https://github.com/user-attachments/assets/df5a3bef-7804-4b23-9b3b-f1a00e8321c9)
 
-       Jika menginout angka "3" yaitu Lihat Saldo E-Money, Maka akan masuk ke menu E-Money yang terdapat informasi jumlah saldo pengguna selain itu pengguna juga diminta memasukkan pilihan apakah ingin melakukan Top up atau kembali.
+       Jika menginput angka "3" yaitu Lihat Saldo E-Money, Maka akan masuk ke menu E-Money yang terdapat informasi jumlah saldo pengguna selain itu pengguna juga diminta memasukkan pilihan apakah ingin melakukan Top up atau kembali.
 
        ![image](https://github.com/user-attachments/assets/63fbe7ed-6d19-4c8d-9fba-7886c561e00f)
 
@@ -162,6 +162,22 @@ A.
      ![image](https://github.com/user-attachments/assets/4789fcfd-455f-44cd-aac6-8f1f314898d4)
 
      Jika pengguna memasukkan angka "2" yaitu Kembali, maka pengguna akan kembali ke "MENU PENGGUNA".
+
+     -
+
+     ![image](https://github.com/user-attachments/assets/510ce5ca-8c2e-4d03-9846-6348c8677a79)
+
+     Jika menginput angka "4" yaitu Lihat tiket yang dibeli, maka akan muncul invoice dari tiket yang pengguna beli.
+
+     ![image](https://github.com/user-attachments/assets/5fac56ef-6089-427f-a58d-cafe6223adf4)
+
+     Jika menginput "ya" maka
+
+     
+
+  
+
+    
 
 
      
