@@ -56,11 +56,11 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
   
   -
 
-  ![image](https://github.com/user-attachments/assets/18b93577-2121-4102-9445-929c84eda9a0)
+  ![Screenshot 2024-11-08 235721](https://github.com/user-attachments/assets/f17312db-217f-4c2d-887d-359059bce8d7)
 
-  Jika menginput "2" yaitu Tambah Event Konser, Maka Admin diminta untuk memasukkan Guest Star, Tanggal, Bulan, Tahun, dan Harga per satu ticket.
+  Jika menginput "2" yaitu Tambah Event Konser, Maka Admin diminta untuk memasukkan ID, Guest Star, Tanggal, Bulan, Tahun, dan Harga per satu ticket.
 
-  ![image](https://github.com/user-attachments/assets/ede4db57-c198-4e7d-9b5c-c2b9965ee364)
+  ![Screenshot 2024-11-08 235736](https://github.com/user-attachments/assets/f4852cc3-0942-4b61-935a-7d7e17bcb38b)
 
   Jika sudah maka konser yang baru saja ditambah akan otomatis masuk ke list konser.
 
