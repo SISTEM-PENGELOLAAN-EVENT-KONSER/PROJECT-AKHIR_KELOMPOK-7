@@ -128,6 +128,33 @@ A.
        Jika menginput angka "1" yaitu Lihat Event Konser, Maka akan ditampilkan list jadwal konser berisi guest star, jadwal, dan harga per satu ticketnya
 
        -
+
+       ![Screenshot 2024-11-08 103550](https://github.com/user-attachments/assets/35c3fe29-5923-4285-bf3b-605a4e9bf32b)
+
+       Jika menginput angka "2" yaitu Beli Tiket Event Konser, Maka akan ditampilkan list konser dan pengguna diminta memasukkan nomor konser berapa yang ingin dibeli setelah itu diminta untuk memasukkan jumlah tiket yang ingin dibeli.
+
+       ![Screenshot 2024-11-08 103750](https://github.com/user-attachments/assets/15733403-c320-4dab-ade5-d94de53c2db9)
+
+       Setelah harga tiket dikali jumlah tiket yang ingin dibeli maka dihitung jumlah totalnya, dan pengguna ditanya apakah ingin melanjutkan pembayaran atau tidak.
+
+       ![Screenshot 2024-11-08 104018](https://github.com/user-attachments/assets/b0bc0c37-53a5-45f0-b071-6ef76fa60c79)
+
+       Jika saldo cukup maka akan muncul invoice dari pembelian tiket konser.
+
+       ![Screenshot 2024-11-08 103601](https://github.com/user-attachments/assets/c0dc2f79-36ec-4178-bd47-8918cb5d794c)
+
+       Namun, jika saldo tidak cukup maka proses pembayaran akan dibatalkan dan pengguna diminta utnuk melakukaan pengisian saldo.
+
+     
+
+
+
+
+
+
+       
+
+       
      
 
 
