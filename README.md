@@ -177,6 +177,22 @@ A.
 
      ![image](https://github.com/user-attachments/assets/cda4eedb-931c-4c9c-a82e-63cbf566d0fc)
 
+     Jika menginput "5" yaitu Logout, maka pengguna akan keluar dan kembali ke menu login pengguna.
+
+  3. Pengujung
+
+  ![image](https://github.com/user-attachments/assets/70813417-daf1-44aa-9599-41c01ef19172)
+
+  Jika menginput "3" yaitu pengunjung maka list konser akan langsung ditampilkan, setelah list konser ditampilkan maka pengunjung akan ditanya apakah ingin login sebagai pengguna atau tidak, jika menginput "Login" maka akan masuk ke menu login pengguna, namun jika menginput "Kembali" maka akan kembali ke menu pilih role.
+
+  4. Keluar
+
+  ![image](https://github.com/user-attachments/assets/f62aa1dd-35ee-466d-abe7-52c6e9de2af5)
+
+  Jika menginput "4" yaitu keluar maka, user akan keluar dari program.
+
+
+
 
      
 
