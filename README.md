@@ -143,7 +143,33 @@ A.
 
        ![Screenshot 2024-11-08 103601](https://github.com/user-attachments/assets/c0dc2f79-36ec-4178-bd47-8918cb5d794c)
 
-       Namun, jika saldo tidak cukup maka proses pembayaran akan dibatalkan dan pengguna diminta utnuk melakukaan pengisian saldo.
+       Namun, jika saldo tidak cukup maka proses pembayaran akan dibatalkan dan pengguna diminta untuk melakukaan pengisian saldo.
+
+       -
+
+       ![image](https://github.com/user-attachments/assets/df5a3bef-7804-4b23-9b3b-f1a00e8321c9)
+
+       Jika menginout angka "3" yaitu Lihat Saldo E-Money, Maka akan masuk ke menu E-Money yang terdapat informasi jumlah saldo pengguna selain itu pengguna juga diminta memasukkan pilihan apakah ingin melakukan Top up atau kembali.
+
+       ![image](https://github.com/user-attachments/assets/63fbe7ed-6d19-4c8d-9fba-7886c561e00f)
+
+       Jika memilih "1" yaitu Top Up, maka akan masuk ke menu topup yang dimana pengguna dapat melakukan topup sesuai yang mereka inginkan pada menu.
+
+     ![image](https://github.com/user-attachments/assets/4d3e8309-c17c-499e-9e68-2b5ecb66d892)
+
+     Jika pengguna memasukkan angka "3" yaitu Nominal Lain, maka dapat melakukan pengisian saldo mulai dari Rp.200000 sampai dengan Rp.2000000.
+
+     ![image](https://github.com/user-attachments/assets/4789fcfd-455f-44cd-aac6-8f1f314898d4)
+
+     Jika pengguna memasukkan angka "2" yaitu Kembali, maka pengguna akan kembali ke "MENU PENGGUNA".
+
+
+     
+
+
+
+     
+
 
      
 
