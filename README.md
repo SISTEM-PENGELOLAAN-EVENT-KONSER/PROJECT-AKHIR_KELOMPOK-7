@@ -40,13 +40,13 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   -
 
-  ![image](https://github.com/user-attachments/assets/f325618f-27fc-4d23-94d1-b1ceaa90e1d1)
+  ![Screenshot 2024-11-08 235405](https://github.com/user-attachments/assets/8c2dee81-4f5e-40d4-9a65-5d6eba2065ed)
 
   Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan. dan jika sudah ditampilkan maka ada menu sorting dari harga terendah ke tertinggi maupun sebaliknya.
 
-  ![image](https://github.com/user-attachments/assets/8667df12-ed09-43ff-bbde-2cdba7d7b939)
+![Screenshot 2024-11-08 235412](https://github.com/user-attachments/assets/54b6cc2e-8e43-401c-9c99-73889d117caf)
 
-  ![image](https://github.com/user-attachments/assets/ab3dbc40-cf4e-48eb-be42-dd63953f8af7)
+![Screenshot 2024-11-08 235417](https://github.com/user-attachments/assets/97ac2088-4867-4fc4-abe2-742adddacfd5)
 
   Jika meenginput "1" yaitu Harga terendah ke tertinggi, maka list konser akan di sorting sesuai dengan harga mulai dari terendah dan tertinggi ataupun sebaliknya jika menginput "2" yaitu Harga tertinggi ke terendah, maka akan disorting mulai dari harga tertinggi ke terendah.
 
