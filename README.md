@@ -6,7 +6,7 @@ ISRINA LUTFIAH 2409116003
 
 MUHAMMAD SADIKIN SAMIR 2409116031
 
-TEMA : SISTEM PENGELOLAAN EVENT KONSER
+## TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
 # FLOWCHART
 
@@ -190,7 +190,7 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   - Lihat tiket yang dibeli
 
-  ![image](https://github.com/user-attachments/assets/510ce5ca-8c2e-4d03-9846-6348c8677a79)
+  ![image](https://github.com/user-attachments/assets/49e82d2c-6663-44b5-b218-755543d99a1e)
 
   Jika menginput angka "4" yaitu Lihat tiket yang dibeli, maka akan muncul invoice dari tiket yang pengguna beli.
 
@@ -206,13 +206,13 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   ### 3. Pengujung
 
-  ![image](https://github.com/user-attachments/assets/70813417-daf1-44aa-9599-41c01ef19172)
+  ![image](https://github.com/user-attachments/assets/667470a1-b7bf-4954-9732-8c63d2283fa9)
 
   Jika menginput "3" yaitu pengunjung maka list konser akan langsung ditampilkan, setelah list konser ditampilkan maka pengunjung akan ditanya apakah ingin login sebagai pengguna atau tidak, jika menginput "Login" maka akan masuk ke menu login pengguna, namun jika menginput "Kembali" maka akan kembali ke menu pilih role.
 
   ### 4. Keluar
 
-  ![image](https://github.com/user-attachments/assets/f62aa1dd-35ee-466d-abe7-52c6e9de2af5)
+![Screenshot 2024-11-09 002513](https://github.com/user-attachments/assets/5b521f62-1007-478e-9378-fc0216864a78)
 
   Jika menginput "4" yaitu keluar maka, user akan keluar dari program.
 
