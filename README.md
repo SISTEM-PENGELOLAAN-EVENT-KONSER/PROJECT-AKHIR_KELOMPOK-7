@@ -171,7 +171,12 @@ A.
 
      ![image](https://github.com/user-attachments/assets/5fac56ef-6089-427f-a58d-cafe6223adf4)
 
-     Jika menginput "ya" maka
+     Jika menginput "ya" maka akan menghapus tiket, namun jika tidak maka akan kembali ke menu pengguna.
+
+     -
+
+     ![image](https://github.com/user-attachments/assets/cda4eedb-931c-4c9c-a82e-63cbf566d0fc)
+
 
      
 
