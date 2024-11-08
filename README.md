@@ -36,9 +36,9 @@ TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
   -
 
-     ![image](https://github.com/user-attachments/assets/889ea200-08fd-45e1-b72f-aaba85cb932f)
+  ![image](https://github.com/user-attachments/assets/889ea200-08fd-45e1-b72f-aaba85cb932f)
 
-     Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan.
+  Jika menginput "1" yaitu menu Lihat Event Konser, Maka List Konser yang berisi Guest Star, Jadwal, dan Harga per satu ticket akan ditampilkan.
 
 
   -
