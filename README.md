@@ -23,7 +23,11 @@ MUHAMMAD SADIKIN SAMIR 2409116031
 
   ![image](https://github.com/user-attachments/assets/407de429-82b2-4138-8184-89b2be69830b)
 
-  User diminta untuk menginput angka berapa untuk memlih role.
+  saat memulai Program user akan di ucapkan selamat datang,, kemudian diminta untuk menginput angka berapa untuk memlih role.
+
+  - Admin dengan role ini user dapat melakukan Create, Read, Update, dan Delete (CRUD) pada sistem pengelolaan tiket event konser.
+  - Pengguna dengan role ini user dapat membuat akun, melihat list konser, melakukan transaksi pembelian tiket, dan Top up E-Money.
+  - Pengunjung dengan role ini user hanya dapat melihat list konser saja
 
 ### 1. Admin
 
