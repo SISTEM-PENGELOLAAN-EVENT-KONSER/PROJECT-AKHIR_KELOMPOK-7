@@ -1,10 +1,12 @@
 # PROJECT_AKHIR_KELOMPOK_7
 
-DWI PEBRIYANTO PRADANA 2409116012
+Anggota kelompok :
 
-ISRINA LUTFIAH 2409116003
+DWI PEBRIYANTO PRADANA | 2409116012
 
-MUHAMMAD SADIKIN SAMIR 2409116031
+ISRINA LUTFIAH | 2409116003
+
+MUHAMMAD SADIKIN SAMIR | 2409116031
 
 ## TEMA : SISTEM PENGELOLAAN EVENT KONSER
 
@@ -30,7 +32,7 @@ MUHAMMAD SADIKIN SAMIR 2409116031
   - Pengunjung dengan role ini user hanya dapat melihat list konser saja
 
 ## Role Admin
-a. Menu login admin
+### a. Menu login admin
   
   ![Screenshot 2024-11-07 215706](https://github.com/user-attachments/assets/0cd0b377-4af3-4c5d-a74d-007d746573b3)
 
@@ -42,7 +44,7 @@ a. Menu login admin
 
 apa bila user tidak benar memasukan nama dan password maka sistem akan memberi tau bahwa nama tidak tersedia, dan jika hanya salah password maka akan diberi tahu password salah. jika terjadi kesalahan user akan ditawari apakah ingin lanjut mencoba login atau kembali. jika lanjut maka user akan diminta memasukan username dan password lagi, jika kembali maka user akan kembali ke menu pilih role.
 
-b. Menu admin
+### b. Menu admin
 
   ![Screenshot 2024-11-07 215723](https://github.com/user-attachments/assets/86234a4c-88b9-412a-968b-330b336c3cbb)
 
@@ -116,7 +118,7 @@ b. Menu admin
 
 ## Role Pengguna
 
-  #### a. Menu login pengguna
+### a. Menu login pengguna
 
   ![Screenshot 2024-11-08 063458](https://github.com/user-attachments/assets/36d4b72a-cb52-470a-aca6-fe5e4111516d)
 
@@ -140,7 +142,7 @@ b. Menu admin
 
   Jika menginput angka "1" yaitu Login, Maka pengguna diminta memasukkan username dan password pengguna.
 
-  ##### a. Menu pengguna
+#### a. Menu pengguna
 
   ![Screenshot 2024-11-08 074916](https://github.com/user-attachments/assets/40a18027-2d69-4b2a-bd82-e94ce947fdb9)
 
@@ -216,7 +218,7 @@ b. Menu admin
 
 ## Role Pengujung
 
-  ![image](https://github.com/user-attachments/assets/667470a1-b7bf-4954-9732-8c63d2283fa9)
+![Cuplikan layar 2024-11-09 132713](https://github.com/user-attachments/assets/5c07737f-06db-418a-ace7-24862793221c)
 
   Jika menginput "3" yaitu pengunjung maka list konser akan langsung ditampilkan, setelah list konser ditampilkan maka pengunjung akan ditanya apakah ingin login sebagai pengguna atau tidak, jika menginput "Login" maka akan masuk ke menu login pengguna, namun jika menginput "Kembali" maka akan kembali ke menu pilih role.
 
