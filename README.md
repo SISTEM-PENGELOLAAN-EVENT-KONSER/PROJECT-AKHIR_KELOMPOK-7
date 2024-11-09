@@ -29,15 +29,20 @@ MUHAMMAD SADIKIN SAMIR 2409116031
   - Pengguna dengan role ini user dapat membuat akun, melihat list konser, melakukan transaksi pembelian tiket, dan Top up E-Money.
   - Pengunjung dengan role ini user hanya dapat melihat list konser saja
 
-### 1. Admin
-
-  a. Menu login admin
-
+## Role Admin
+a. Menu login admin
+  
   ![Screenshot 2024-11-07 215706](https://github.com/user-attachments/assets/0cd0b377-4af3-4c5d-a74d-007d746573b3)
 
   Apabila user menginput angka "1" maka akan masuk ke role admin dan diminta untuk memasukkan Username dan Password.
 
-  b. Masuk ke menu admin
+ ![Cuplikan layar 2024-11-09 131511](https://github.com/user-attachments/assets/5a13bf30-f547-4505-a5e2-f01da85f847e)
+  
+![Cuplikan layar 2024-11-09 131540](https://github.com/user-attachments/assets/19b2763e-772b-453c-b21a-0e0a6ab0432b)
+
+apa bila user tidak benar memasukan nama dan password maka sistem akan memberi tau bahwa nama tidak tersedia, dan jika hanya salah password maka akan diberi tahu password salah. jika terjadi kesalahan user akan ditawari apakah ingin lanjut mencoba login atau kembali. jika lanjut maka user akan diminta memasukan username dan password lagi, jika kembali maka user akan kembali ke menu pilih role.
+
+b. Menu admin
 
   ![Screenshot 2024-11-07 215723](https://github.com/user-attachments/assets/86234a4c-88b9-412a-968b-330b336c3cbb)
 
@@ -71,7 +76,7 @@ MUHAMMAD SADIKIN SAMIR 2409116031
 
   ![image](https://github.com/user-attachments/assets/9487ced9-2776-4cd6-97c3-fd127d7b6e77)
 
-  Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya" maka akan mengulang proses menambah konser namun jika "Tidak admin akan kembali ke Menu Admin.
+  Setelah list konser tertambahkan maka admin akan ditanya apakah ingin menambah konser lagi atau tidak, jika "Ya" maka akan mengulang proses menambah konser namun jika "Tidak" admin akan kembali ke Menu Admin.
 
   - Perbarui event konser
 
@@ -109,7 +114,7 @@ MUHAMMAD SADIKIN SAMIR 2409116031
   ika menginput "5" yaitu Logout, maka admin akan logout atau keluar dari role admin dan akan kembali pada menu pilih role.
 
 
-### 2. Pengguna
+## Role Pengguna
 
   #### a. Menu login pengguna
 
@@ -209,7 +214,7 @@ MUHAMMAD SADIKIN SAMIR 2409116031
 
   Jika menginput "5" yaitu Logout, maka pengguna akan keluar dan kembali ke menu login pengguna.
 
-  ### 3. Pengujung
+## Role Pengujung
 
   ![image](https://github.com/user-attachments/assets/667470a1-b7bf-4954-9732-8c63d2283fa9)
 
