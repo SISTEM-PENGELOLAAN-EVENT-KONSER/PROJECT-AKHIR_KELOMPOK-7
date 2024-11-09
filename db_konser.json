@@ -1,0 +1,81 @@
+{
+    "konser": {
+        "DRS002": {
+            "gs": "Sal Priadi",
+            "tanggal": "23",
+            "bulan": "April",
+            "tahun": "2025",
+            "harga": 160000
+        },
+        "DRS003": {
+            "gs": "Reality Club",
+            "tanggal": "23",
+            "bulan": "Desember",
+            "tahun": "2025",
+            "harga": 800000
+        },
+        "DRS004": {
+            "gs": "Bernadya",
+            "tanggal": "5",
+            "bulan": "Maret",
+            "tahun": "2025",
+            "harga": 300000
+        },
+        "DRS006": {
+            "gs": "Hindia",
+            "tanggal": "21",
+            "bulan": "Februari",
+            "tahun": "2026",
+            "harga": 300000
+        },
+        "DRS007": {
+            "gs": "Feast.",
+            "tanggal": "31",
+            "bulan": "Oktober",
+            "tahun": "2025",
+            "harga": 400000
+        },
+        "DRS008": {
+            "gs": "Ardhito Pramono",
+            "tanggal": "21",
+            "bulan": "Februari",
+            "tahun": "2027",
+            "harga": 600000
+        },
+        "DRS009": {
+            "gs": "Juicy Lucy",
+            "tanggal": "7",
+            "bulan": "November",
+            "tahun": "2024",
+            "harga": 300000
+        },
+        "DRS010": {
+            "gs": "Boy pablo",
+            "tanggal": "30",
+            "bulan": "Januari",
+            "tahun": "2025",
+            "harga": 700000
+        },
+        "DRS012": {
+            "gs": "Riski febian",
+            "tanggal": "23",
+            "bulan": "Agustus",
+            "tahun": "2026",
+            "harga": 600000
+        }
+    },
+    "bulan": [
+        "Januari",
+        "Februari",
+        "Maret",
+        "April",
+        "Mei",
+        "Juni",
+        "Juli",
+        "Agustus",
+        "September",
+        "Oktober",
+        "November",
+        "Desember"
+    ]
+}

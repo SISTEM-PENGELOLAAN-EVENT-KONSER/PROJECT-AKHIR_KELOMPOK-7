@@ -1,0 +1,12 @@
+{
+    "Nabil": {
+        "password": "aslabA1",
+        "saldo": 10000,
+        "tiket": "kosong"
+    },
+    "Rizky": {
+        "password": "aslabA2",
+        "saldo": 20000,
+        "tiket": "kosong"
+    }
+}
